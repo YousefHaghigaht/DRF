@@ -151,7 +151,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Shop rest',
+    'TITLE': 'Shop rest update',
     'DESCRIPTION': 'Your project description',
     'VERSION': '1.0.0',
 }
